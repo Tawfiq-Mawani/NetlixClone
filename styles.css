@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-  background: url("img/netflix_bg.jpg");
+  background: url("netflix_bg.jpg");
   background-size: cover;
   height: 750px;
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .logo {
-  background: url("img/netflix_logo.png");
+  background: url("netflix_logo.png");
   height: 5rem;
   width: 9.25rem;
   background-size: cover;
@@ -241,7 +241,7 @@ body {
 }
 
 .sec-1-video-container {
-  background: url("/img/tv.png");
+  background: url("tv.png");
   background-size: contain;
   width: 37.5rem;
   height: 37.5rem;
@@ -250,7 +250,7 @@ body {
 }
 
 .sec-2-video-container {
-  background: url("/img/2-section.png");
+  background: url("2-section.png");
   background-size: contain;
   width: 37.5rem;
   height: 37.5rem;
@@ -266,7 +266,7 @@ body {
 }
 
 .sec-1-photo-container {
-  background: url("/img/3-section.png");
+  background: url("3-section.png");
   background-size: contain;
   width: 40rem;
   height: 40rem;
@@ -274,7 +274,7 @@ body {
 }
 
 .sec-4-photo-container {
-  background: url("/img/4section.jpg");
+  background: url("4section.jpg");
   background-size: contain;
   width:41rem;
   height: 41rem;
@@ -340,7 +340,7 @@ body {
 .sec-4-download-image{
   height: 80px;
   width: 100px;
-  background-image: url("/img/4-section-download.png");
+  background-image: url("4-section-download.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
